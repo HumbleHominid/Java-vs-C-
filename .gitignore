@@ -1,0 +1,6 @@
+# Class
+*.class
+
+# Vim
+*~
+*.swp
